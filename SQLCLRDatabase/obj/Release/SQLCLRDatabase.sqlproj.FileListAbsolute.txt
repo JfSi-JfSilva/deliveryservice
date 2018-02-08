@@ -1,0 +1,5 @@
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService\SQLCLRDatabase\bin\Release\SQLCLRDatabase.dacpac
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService\SQLCLRDatabase\bin\Release\SQLCLRDatabase.dll
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService\SQLCLRDatabase\bin\Release\SQLCLRDatabase.pdb
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService\SQLCLRDatabase\obj\Release\SQLCLRDatabase.dll
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService\SQLCLRDatabase\obj\Release\SQLCLRDatabase.pdb

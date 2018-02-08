@@ -1,0 +1,85 @@
+07/02/2018 14:55:51	This log contains information about the import schema operation into project 'SQLCLRDatabase' on computer 'JFSIDEVPC' by user 'jorge'.
+07/02/2018 14:55:51	Import of database schema has started.
+07/02/2018 14:55:59	Gathering database credentials
+07/02/2018 14:55:59	Gathering database options
+07/02/2018 14:55:59	Gathering generic database scoped configuration option
+07/02/2018 14:55:59	Gathering users
+07/02/2018 14:55:59	Gathering roles
+07/02/2018 14:55:59	Gathering application roles
+07/02/2018 14:55:59	Gathering role memberships
+07/02/2018 14:55:59	Gathering filegroups
+07/02/2018 14:55:59	Gathering full-text catalogs
+07/02/2018 14:55:59	Gathering assemblies
+07/02/2018 14:55:59	Gathering certificates
+07/02/2018 14:55:59	Gathering asymmetric keys
+07/02/2018 14:55:59	Gathering symmetric keys
+07/02/2018 14:55:59	Gathering encrypted symmetric keys
+07/02/2018 14:55:59	Gathering schemas
+07/02/2018 14:55:59	Gathering XML schema collections
+07/02/2018 14:55:59	Gathering user-defined data types
+07/02/2018 14:55:59	Gathering user-defined types
+07/02/2018 14:55:59	Gathering table types
+07/02/2018 14:55:59	Gathering unique keys for table types
+07/02/2018 14:55:59	Gathering primary keys for table types
+07/02/2018 14:55:59	Gathering indexes for table types
+07/02/2018 14:55:59	Gathering check constraints for table types
+07/02/2018 14:55:59	Gathering default constraints for table types
+07/02/2018 14:55:59	Gathering partition functions
+07/02/2018 14:55:59	Gathering partition schemes
+07/02/2018 14:55:59	Gathering functions
+07/02/2018 14:55:59	Gathering encrypted functions
+07/02/2018 14:55:59	Gathering aggregates
+07/02/2018 14:55:59	Gathering procedures
+07/02/2018 14:55:59	Gathering encrypted procedures
+07/02/2018 14:55:59	Gathering tables
+07/02/2018 14:55:59	Gathering primary keys
+07/02/2018 14:55:59	Gathering unique constraints
+07/02/2018 14:55:59	Gathering foreign keys
+07/02/2018 14:55:59	Gathering default constraints
+07/02/2018 14:55:59	Gathering check constraints
+07/02/2018 14:55:59	Gathering views
+07/02/2018 14:55:59	Gathering encrypted views
+07/02/2018 14:55:59	Gathering indexes
+07/02/2018 14:55:59	Gathering statistics
+07/02/2018 14:55:59	Gathering full-text index stoplists
+07/02/2018 14:55:59	Gathering search property lists
+07/02/2018 14:55:59	Gathering search properties
+07/02/2018 14:55:59	Gathering full-text indexes
+07/02/2018 14:55:59	Gathering column store indexes
+07/02/2018 14:55:59	Gathering spatial indexes
+07/02/2018 14:55:59	Gathering XML indexes
+07/02/2018 14:55:59	Gathering Selective XML indexes
+07/02/2018 14:55:59	Gathering encrypted triggers
+07/02/2018 14:55:59	Gathering triggers
+07/02/2018 14:55:59	Gathering encrypted and clr ddl triggers
+07/02/2018 14:55:59	Gathering ddl triggers
+07/02/2018 14:55:59	Gathering synonyms
+07/02/2018 14:55:59	Gathering defaults
+07/02/2018 14:55:59	Gathering data constraint uddt bindings
+07/02/2018 14:55:59	Gathering rules
+07/02/2018 14:55:59	Gathering data constraint uddt bindings
+07/02/2018 14:55:59	Gathering message types
+07/02/2018 14:55:59	Gathering queues
+07/02/2018 14:55:59	Gathering contracts
+07/02/2018 14:55:59	Gathering services
+07/02/2018 14:55:59	Gathering event notifications
+07/02/2018 14:55:59	Gathering remote service bindings
+07/02/2018 14:55:59	Gathering broker priorities
+07/02/2018 14:55:59	Gathering signatures
+07/02/2018 14:55:59	Gathering data compression options
+07/02/2018 14:55:59	Gathering sequence types
+07/02/2018 14:55:59	Gathering security policies
+07/02/2018 14:55:59	Gather column encryption keys
+07/02/2018 14:55:59	Gathering column master keys
+07/02/2018 14:55:59	Gathering external data sources
+07/02/2018 14:55:59	Gathering external file formats
+07/02/2018 14:55:59	Gathering external tables
+07/02/2018 14:55:59	Gathering extended properties
+07/02/2018 14:55:59	Gathering credentials
+07/02/2018 14:55:59	Gathering logins
+07/02/2018 14:55:59	Gathering server audits
+07/02/2018 14:55:59	Scanning project for duplicate elements
+07/02/2018 14:55:59	Finished duplicate element processing
+07/02/2018 14:55:59	Finished importing database.
+07/02/2018 14:55:59	A summary of the import was saved to the following location: Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService\SQLCLRDatabase\Import Schema Logs\SQLCLRDatabase_20180207025551.log
+07/02/2018 14:55:59	Click Finish to continue...

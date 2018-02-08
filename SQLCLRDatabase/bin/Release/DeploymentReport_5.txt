@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[login] (Table)
+       [dbo].[points] (Table)
+       [dbo].[points].[U01_points] (Index)
+       [dbo].[route_points] (Table)
+       [dbo].[route_points].[K01_route_points] (Index)
+       [dbo].[routes] (Table)
+       [dbo].[routes].[U01_routes] (Index)
+       [dbo].[users] (Table)
+       [dbo].[users].[U01_users] (Index)
+       Default Constraint: unnamed constraint on [dbo].[login] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[points] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[route_points] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[routes] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[users] (Default Constraint)
+       [dbo].[FK_login_iduser] (Foreign Key)
+       [dbo].[FK_points_iduser] (Foreign Key)
+       [dbo].[FK_route_points_fromidpoint] (Foreign Key)
+       [dbo].[FK_route_points_idroute] (Foreign Key)
+       [dbo].[FK_route_points_iduser] (Foreign Key)
+       [dbo].[FK_route_points_toidpoint] (Foreign Key)
+       [dbo].[FK_routes_iduser] (Foreign Key)
+       [dbo].[TmpWays] (Function)
+       [dbo].[GetWay] (Function)
+
+** Supporting actions

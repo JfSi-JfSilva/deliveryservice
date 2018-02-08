@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[login]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[login] (Default Constraint)
+     Table rebuild
+       [dbo].[login] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_login_iduser] (Foreign Key)
+     Create
+       [dbo].[FK_login_iduser] (Foreign Key)

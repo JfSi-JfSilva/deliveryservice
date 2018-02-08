@@ -1,0 +1,6 @@
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService_Exemple\ErrorHandler\obj\Debug\ErrorHandler.csproj.CoreCompileInputs.cache
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService_Exemple\ErrorHandler\bin\Debug\ErrorHandler.dll
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService_Exemple\ErrorHandler\bin\Debug\ErrorHandler.pdb
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService_Exemple\ErrorHandler\obj\Debug\ErrorHandler.dll
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService_Exemple\ErrorHandler\obj\Debug\ErrorHandler.pdb
+Z:\myJfSi\PatriciaMartins-j7mvqv7s4@jobvite.com\RestWebService_Exemple\ErrorHandler\obj\Debug\ErrorHandler.csprojResolveAssemblyReference.cache
